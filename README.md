@@ -9,6 +9,6 @@
 
 - 💬 Ask me about anything!
 
-- 📫 How to reach me: Email (kristianolsson23@gmail.com) or LinkedIn (www.linkedin.com/in/kristianolsson23/)
+- 📫 How to reach me: Email or LinkedIn
 
 - 😄 Pronouns: he/him/his
