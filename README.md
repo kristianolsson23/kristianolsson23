@@ -6,6 +6,9 @@
     -  Mastercard Social Impact Data Commons (https://uva-bi-sdad.github.io/sdc.intro/)
     -  Evaluating Broadband Subsidy Programs (www.github.com/DSPG-Young-Scholars-Program/dspg22ers/)
     -  R&D Emerging Digitalization Trends (www.github.com/DSPG-Young-Scholars-Program/dspg22RnD/)
+ 
+- Below are some class projects I have completed during my M.S. Data Science program
+    -  Predicting Algerian Forest Fires (for Bayesian Machine Learning final project, https://github.com/mtvaden1/Algeria_Forest_Fires_DS6040)
 
 - 💬 Ask me about anything!
 
