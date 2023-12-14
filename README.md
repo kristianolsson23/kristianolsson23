@@ -9,6 +9,7 @@
  
 - Below are some class projects I have completed during my M.S. Data Science program
     -  Predicting Algerian Forest Fires (for Bayesian Machine Learning final project, https://github.com/mtvaden1/Algeria_Forest_Fires_DS6040)
+    -  Die-Game: Imitating an n-sided die, playing games, and analyzing results (for Programming for Data Science final project, https://github.com/kristianolsson23/kno5cac_ds5100_montecarlo)
 
 - 💬 Ask me about anything!
 
