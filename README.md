@@ -15,5 +15,3 @@
 - 💬 Ask me about anything!
 
 - 📫 How to reach me: Email or LinkedIn
-
-- 😄 Pronouns: he/him/his
