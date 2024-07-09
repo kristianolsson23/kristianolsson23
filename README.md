@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently pursuing a Master of Science in Data Science at the University of Virginia
+- 🌱 I recently graduated with a Master of Science in Data Science and Bachelor of Arts in Mathematics at the University of Virginia
   
 - 📈 I worked with Pula Capital Management as a Data Science Intern between January and April 2024. I developed a 1+1 Dconvolutional neural network to predict the day-to-day direction of SPY index prices by capturing patterns in individual stocks and across the S&P 500. I developed models on PyTorch Lightning with Optuna/TensorBoard, employing early-stopping, gradient clipping, and hyperparameter tuning to ensure model convergence and generalizability. I showcased my methodologies to firm executives with a final presentation.
 
