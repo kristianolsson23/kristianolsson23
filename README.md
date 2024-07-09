@@ -24,4 +24,4 @@
 
 - 💬 Ask me about anything!
 
-- 📫 How to reach me: Email or LinkedIn
+- 📫 How to reach me: Email (kristianolsson23@gmail.com) or LinkedIn (https://www.linkedin.com/in/kristianolsson23/)
